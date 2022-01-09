@@ -1,0 +1,14 @@
+C:\Windows\System32\cmd.exe
+C:\Users\BNB\AppData\Local\Programs\Python\Python39\Scripts
+
+
+
+%USERPROFILE%\AppData\Local\Microsoft\WindowsApps
+
+
+----------------------------------------------------------------------
+
+
+
+
+C:\Users\BNB\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\BNB\AppData\Local\Programs\Python\Python39\;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Users\BNB\AppData\Local\Programs\Python\Python39;C:\Users\BNB\AppData\Local\Programs\Python\Python39\Scripts;
